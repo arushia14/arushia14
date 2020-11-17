@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, there 👋
 
 ### Thanks for stopping by my GitHub page, let me introduce myself.
 
