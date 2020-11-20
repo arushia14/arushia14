@@ -6,3 +6,5 @@
 - 🎓  I am a computer science graduate student at Northeastern University 
 - 🧬  I studied biotech engineering as an undergrad
 - 👩🏻  My pronouns: She/Her
+
+Check out some of my projects below ⬇
