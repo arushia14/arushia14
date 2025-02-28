@@ -7,4 +7,6 @@
 - 🧬  I studied biotech engineering as an undergrad, and I love reading about science, space and history.
 - 👩🏻  My pronouns: She/Her
 
+- 🤖 Know more about me by chatting with [Albert, my personal AI assistant](https://arushi-assistant.streamlit.app/). 
+
 Check out some of my work below ⬇
